@@ -36,7 +36,7 @@ namespace TaskConsoleApp
             #region Menyu1
             //Menyu1
             Console.Clear();
-        L1: Console.WriteLine($"Kitabları qiymətlərə görə filtirləmək üçün 1\n" +
+        L1: Console.WriteLine($"Kitabları qiymətlərə görə filtrləmək üçün 1\n" +
              $"Bütün kitabları göstərmək üçün 2\n" +
              $"Proqramı bağlamaq üçün 0 düyməsin sıxın");
 
@@ -90,7 +90,7 @@ namespace TaskConsoleApp
 
         #region Menyu2
         //menyu2
-        L2: Console.WriteLine($"Kitabları verilmiş qiymət aralığına görə filtirəmək üçün 1\n" +
+        L2: Console.WriteLine($"Kitabları verilmiş qiymət aralığına görə filtrəmək üçün 1\n" +
         $"Bütün kitabları göstərmək üçün 2\n" +
         $"Proqramı bağlamaq üçün 3 düyməsin sıxın");
 
@@ -115,6 +115,7 @@ namespace TaskConsoleApp
                         if (books[i].price > minValu && books[i].price < maxValue)
                         {
                             Console.WriteLine(books[i]);
+                            Console.WriteLine("----------------");
                         }
                     }
                     goto L2;
