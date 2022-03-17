@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.exe
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.deps.json
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.runtimeconfig.json
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.runtimeconfig.dev.json
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.dll
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\bin\Debug\net5.0\TaskConsoleApp.pdb
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.AssemblyInfo.cs
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.dll
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\refint\TaskConsoleApp.dll
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.pdb
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\TaskConsoleApp.genruntimeconfig.cache
+C:\Users\farid\Desktop\p317\ConsoleApp1\TaskConsoleApp\obj\Debug\net5.0\ref\TaskConsoleApp.dll
